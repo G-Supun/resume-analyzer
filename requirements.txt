@@ -1,0 +1,14 @@
+pdfplumber
+pymupdf
+spacy
+nltk
+pandas
+numpy
+scikit-learn
+sentence-transformers
+torch
+transformers
+gradio
+openpyxl
+tqdm
+rapidfuzz
